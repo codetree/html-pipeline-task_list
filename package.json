@@ -6,7 +6,7 @@
   "repository": "https://github.com/codetre/html-pipeline-task_list",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-ujs": "^1.2.2"
   },
   "devDependencies": {
